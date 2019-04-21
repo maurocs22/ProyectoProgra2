@@ -1,2 +1,2 @@
 # ProyectoProgra2
-Protecto 2
+Proyecto 2
